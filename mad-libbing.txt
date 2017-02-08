@@ -1,5 +1,5 @@
-Fighting evil by ______, winning love by ______
-Never running from a ______, she is the one named ______.
+Fighting evil by git committing, winning love by making a new branch before running into conflicts
+Never running from a disorganized repository, she is the one named Sailor Github.
 
 She will never turn her back on her ______.
 She is always there to ______.
